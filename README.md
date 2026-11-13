@@ -42,8 +42,9 @@ Assets/
 └── Resources/Levels/levels.json
 ```
 
-Design decisions and the full technical history live in `GDD-dev.md`
-(working document, to be committed) and agent/workflow rules in `AGENTS.md`.
+Design documents live in `Docs/` (`GDD-dev.md` for technical/design
+decisions, `GDD-presentation.md` for the public-facing vision) and
+agent/workflow rules in `AGENTS.md`.
 
 ## Development
 
